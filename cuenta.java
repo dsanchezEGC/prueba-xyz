@@ -1,3 +1,3 @@
-for(i=1,i<11,i++){
+for(i=11,i>0,i--){
 	System.out.println(i);
 }
